@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Marcador de Fútbol</string>
+    <string name="team_b">Equipo B</string>
+    <string name="goals">Goles</string>
+    <string name="team_a">Equipo A</string>
+    <string name="on_target">Tiros a Marco</string>
+    <string name="corners">Tiros de Esquina</string>
+    <string name="fouls">Faltas</string>
+    <string name="yellows">Tarjetas Amarillas</string>
+    <string name="reds">Tarjetas Rojas</string>
+    <string name="reset">Reiniciar</string>
+    <string name="add_sign">+</string>
+</resources>
